@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for associating of the counties of Pembroke, Carmarthen and Cardigan, for the mutuall defence and safety of each other and for the suppressing of this present rebellion raised against the King and Parliament : also a committee is hereby authorised to put in execution the ordinances for sequestration of malignants and papists estates and weekly assessments.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22107</idno><idno type="EEBO-CITATION">12066593</idno>
+  <idno type="VID">196744</idno>
+  <idno type="EEBO-PROQUEST">2248530377</idno>
+  
+            <idno type="STC">Wing E1862</idno>
+            <idno type="OCLC">12066593</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196744)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E51, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for associating of the counties of Pembroke, Carmarthen and Cardigan, for the mutuall defence and safety of each other and for the suppressing of this present rebellion raised against the King and Parliament : also a committee is hereby authorised to put in execution the ordinances for sequestration of malignants and papists estates and weekly assessments.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Iune 14, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Attachment and garnishment --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196744:1"/>
+            <pb facs="tcp:196744:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, For Associating of the Counties of <hi>Pembroke, Carmarthen</hi> and <hi>Cardigan,</hi> FOR <hi>The mutuall Defence and Safety of each other, and for the suppressing of this present</hi> REBELLION <hi>rai<g ref="char:EOLhyphen"/>sed against the King and Parliament.</hi>
+            </p>
+            <p>Also, a Committee is hereby authorised to put in execution the <hi>Ordinances</hi> for Seque<g ref="char:EOLhyphen"/>stration of Malignants and Papists Estates, and Weekly Assessments.</p>
+            <p>8. Junii, 1644.</p>
+            <p>Hen. Elsynge, Cler. Parl. D. Com.</p>
+            <p>Printed for <hi>Edward Husbands,</hi> Iune 14. 1644.</p>
+            <pb facs="tcp:196744:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="3" facs="tcp:196744:2"/>
+            <head>An Ordinance of the Lords and Commons assembled in Parliament.</head>
+            <p>THe Lords and Commons assembled in Parliament, taking into their consideration the present condition of the County of <hi>Pembroke,</hi> which by the wonderfull power of Almighty God, manifested in weak means, is delivered from the Tyrannie, and intollerable op<g ref="char:EOLhyphen"/>pression of the Forces raised against the Parliament and Kingdom, under the Command of the Earl of <hi>Carberry;</hi> and that by the further Assistance and Bles<g ref="char:EOLhyphen"/>sing of God, if timely care be taken for the maintaining and prosecuting of the said great work, the rest of the Coun<g ref="char:EOLhyphen"/>ties of <hi>South-Wales</hi> may be reduced to the obedience of the King and Parliament,
+<pb n="4" facs="tcp:196744:3"/> who cannot but be deeply sensible of the great miseries they have in like manner sustained under the same Tyrannie, and how great a benefit and comfort it will be to them, to be also delivered from the same; Have thought it necessary, that over and above such Provision of Arms and Ammunition, as have been already Ordered to be made for the said County of <hi>Pembroke,</hi> such further competent sup<g ref="char:EOLhyphen"/>plies and provision be had and establish<g ref="char:EOLhyphen"/>ed for the maintenance of such Officers and Souldiers, as shall be imployed in the preservation of the peace of the said County of <hi>Pembroke,</hi> and in the reducing of the rest of the said Counties, as du<g ref="char:EOLhyphen"/>ring the time of the said service shall be requisite: And do therefore Order and Ordain, and be it Ordered and Ordain<g ref="char:EOLhyphen"/>ed by the Authority aforesaid, That the three Counties of <hi>Pembroke, Carmarthen,</hi> and <hi>Cardigan,</hi> shall enter into an Associa<g ref="char:EOLhyphen"/>tion, and are hereby Associated for the mutuall defence and safety of each o<g ref="char:EOLhyphen"/>ther,
+<pb n="5" facs="tcp:196744:3"/> And that <hi>Harbert Perrot, Rice Vaugh<g ref="char:EOLhyphen"/>an, Thomas Barlow</hi> Gent. <hi>Griffith White, Sampson Lort,</hi> Esquires, <hi>Thomas Powell</hi> Gent. <hi>John Elliot</hi> Esquire, <hi>George Adams</hi> Gent. <hi>Thomas Bowen</hi> of Treloyn, <hi>John Phillips</hi> Esq; <hi>John Lort, George Hayward, William Laugharn, Thomas Woogan, John Mathias,</hi> Gent. <hi>Thomas Warren</hi> Esquire, <hi>James Bowen, George William Griffith, John Lloyd</hi> of Killrue, <hi>David Morgan, Tho<g ref="char:EOLhyphen"/>mas Jones</hi> of Newport, Gentlemen; shall be, and are hereby named to be a Committee, to meet at such times and places as they shall think fit, for raising of Men, Mony, Horses, Arms and Am<g ref="char:EOLhyphen"/>munition, upō the Propositions former<g ref="char:EOLhyphen"/>ly agreed on by both Houses of Parlia<g ref="char:EOLhyphen"/>ment, or by any other way that they shall iudge convenient for the suppres<g ref="char:EOLhyphen"/>sing of the present Rebellion, stirred up by the Malignant persons, who desire and endeavour to subvert the happiness of this Kingdom, and shall have power to do all things necessary thereunto up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:196744:4"/> all occasions: And to ioyn with any other Forces raised or to be raised by Authority of Parliament; and that the Earl of <hi>Essex</hi> Lord Generall, be desired to grant a Commission to the said <hi>Row<g ref="char:EOLhyphen"/>land Laughorn</hi> to Command in chief as Maior Generall of the Forces raised, and to be so raised within the said three Counties and every of them, and the said <hi>Rowland Laughorn</hi> to have power to lead and carry the said Forces to such places as he shall think fit, and to sub<g ref="char:EOLhyphen"/>due, fight with, kill, slay, and Imprison all such persons as shall leavie War without the consent of both Houses of Parliament; and that what Money, Horse, Arms or Ammunition, shall be contributed by any person towards this service, shall be secured, to be repaid with Interest after Eight pounds <hi>per Cent.</hi> by the Publique Faith of both Houses of Parliament, upon the shew<g ref="char:EOLhyphen"/>ing an Acquittance or Certificate under the hands of any four of the said Com<g ref="char:EOLhyphen"/>mittee,
+<pb n="7" facs="tcp:196744:4"/> of the Receipt of the said Mo<g ref="char:EOLhyphen"/>neys, or Apprisement of the said Horses, Arms or Ammunition, and the said Moneys so brought in, shall be issued in every of the said Counties, by the ap<g ref="char:EOLhyphen"/>pointment of any four of the said Com<g ref="char:EOLhyphen"/>mittee.</p>
+            <p>And be it further Ordained by the said Lords and Commons, That the said Committee or any four or more of them, shall have full power and autho<g ref="char:EOLhyphen"/>rity to put in execution within the said county of <hi>Pembroke,</hi> &amp; the said other coun<g ref="char:EOLhyphen"/>ties when the same shall be reduced, The Ordinances of this present Parli<g ref="char:EOLhyphen"/>ament, hereafter mentioned, That is to say, The Ordinances for Sequestra<g ref="char:EOLhyphen"/>tion of Malignants, Delinquents and Papists Estates, and the Ordinance for Weekly Assessments; And shall have full power and authority to set &amp; let the Lands, Tenements &amp; Hereditaments of all Papists and Delinquents, which are or shall be seized and sequestred ac<g ref="char:EOLhyphen"/>cording
+<pb n="8" facs="tcp:196744:5"/> to the Ordinance of Parlia<g ref="char:EOLhyphen"/>ment for Sequestration, within the said severall Counties or either of them, from yeer to yeer, or by Lease or Leases for the intents and purposes aforesaid, so long as the said Sequestration shall continue, and shall have power and au<g ref="char:EOLhyphen"/>thority, and are hereby required to ad<g ref="char:EOLhyphen"/>minister the Covenant, appointed to be taken by the three Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ireland,</hi> to all persons within the said three Counties and eve<g ref="char:EOLhyphen"/>ry of them, who ought to take the same by the late Ordinance and Instructi<g ref="char:EOLhyphen"/>ons for that purpose, and have not al<g ref="char:EOLhyphen"/>ready taken it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
